@@ -1,31 +1,46 @@
 {
-    "Comments":{
+  "Comments": [
+    {
+      "Name": "Chris Madden",
+      "Message": "If you use the proper knife for the job and it is sharp you don't need this dubious hack.",
+      "Replies": [
         {
-        "Name": "Chris Madden",
-        "Message": "If you use the proper knife for the job and it is sharp you don't need this dubious hack.",
-        "Replies": {
-        "Robin Henneberry": "Chris Madden, you mean you're not supposed to cut this with a butter knife???",
-        "Elizabeth": "And btw this knife can't cut through some rice and seaweed but it can cut through plastic? Come on now "
-        }
-        },
-        
-        {
-        "Name": "Afsara Hossain",
-        "Message": "Delicious 🥰🥰😋😋",
-        "Replies": {
-        "Jaquiline": "Yesss!!"
-        }
+          "name": "Modanna",
+          "reply": "And btw this knife can't cut through some rice and seaweed but it can cut through plastic? Come on now "
         },
         {
-        "Name": "Craig Seago",
-        "Message": "5 minute crafts that take longer because you use a blunt knife",
-        "Replies": {
-        "Robin Henneberry": "Step one. Use a sharp knife.",
-        "Elizabeth": "Or option number 2",
-        "Yash": "Option number two will use more plastic. Using a sharper knife will be cheaper and less time consuming."
+          "name": "Oliviya!",
+          "reply": "this idea not good for me, because..i hate it"
         }
+      ]
+    },
+    {
+      "Name": "Afsara Hossain",
+      "Message": "Delicious 🥰🥰😋😋",
+      "Replies": [
+        {
+          "name": "Yaswin",
+          "reply": "And btw this knife can't cut through some rice and seaweed but it can cut through plastic? Come on now"
         }
-        
-}
-    
+      ]
+    },
+    {
+      "Name": "Craig Seago",
+      "Message": "5 minute crafts that take longer because you use a blunt knife. but its nice :)",
+      "Replies": [
+        {
+          "name": "Benjamnin",
+          "reply": "Option number two will use more plastic. Using a sharper knife will be cheaper and less time consuming."
+        },
+        {
+          "name": "Madden",
+          "reply": "Or option number 2. Using a sharper knife will be cheaper and less time consuming."
+        },
+        {
+          "name": "kavin",
+          "reply": "Step one. Use a sharp knife."
+        }
+      ]
+    }
+  ]
 }

@@ -13,6 +13,7 @@
 		5DDA435A25369EA000FABCCB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5DDA435825369EA000FABCCB /* Main.storyboard */; };
 		5DDA435C25369EA600FABCCB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5DDA435B25369EA600FABCCB /* Assets.xcassets */; };
 		5DDA435F25369EA600FABCCB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5DDA435D25369EA600FABCCB /* LaunchScreen.storyboard */; };
+		5DDA43672536A96900FABCCB /* sample.json in Resources */ = {isa = PBXBuildFile; fileRef = 5DDA43662536A96900FABCCB /* sample.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		5DDA435B25369EA600FABCCB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5DDA435E25369EA600FABCCB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5DDA436025369EA600FABCCB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5DDA43662536A96900FABCCB /* sample.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = sample.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				5DDA435225369EA000FABCCB /* AppDelegate.swift */,
 				5DDA435425369EA000FABCCB /* SceneDelegate.swift */,
 				5DDA435625369EA000FABCCB /* ViewController.swift */,
+				5DDA43662536A96900FABCCB /* sample.json */,
 				5DDA435825369EA000FABCCB /* Main.storyboard */,
 				5DDA435B25369EA600FABCCB /* Assets.xcassets */,
 				5DDA435D25369EA600FABCCB /* LaunchScreen.storyboard */,
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5DDA435F25369EA600FABCCB /* LaunchScreen.storyboard in Resources */,
+				5DDA43672536A96900FABCCB /* sample.json in Resources */,
 				5DDA435C25369EA600FABCCB /* Assets.xcassets in Resources */,
 				5DDA435A25369EA000FABCCB /* Main.storyboard in Resources */,
 			);
